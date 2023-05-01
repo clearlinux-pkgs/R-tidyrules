@@ -4,7 +4,7 @@
 #
 Name     : R-tidyrules
 Version  : 0.1.5
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/tidyrules_0.1.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/tidyrules_0.1.5.tar.gz
 Summary  : Obtain Rules from Rule Based Models as Tidy Dataframe
